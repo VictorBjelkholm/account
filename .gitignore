@@ -35,3 +35,8 @@ dwsync.xml
 intermediate
 publish
 .idea
+
+#Folders for testing
+
+tests/_data
+tests/_log
